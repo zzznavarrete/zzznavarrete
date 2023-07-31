@@ -1,4 +1,16 @@
-### Hi there 👋
+### Nicolás N portfolio
+
+#### See my latest post:
+- a,
+- b.
+
+#### See my latest personal projects:
+- a,
+- b.
+
+#### See my latest study notes:
+- a,
+- b.
 
 <!--
 **zzznavarrete/zzznavarrete** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
