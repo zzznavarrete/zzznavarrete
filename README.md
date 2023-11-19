@@ -25,9 +25,9 @@ I'm a highly motivated and collaborative person who values knowledge and learnin
 <br>
 
 <!-- BLOG-POST-LIST:START -->
+- [Big O Notation: Review](https://github.com/zzznavarrete/data_structures/blob/main/src/notes/1_summary_big_o_notation.md)
 - [5 tiny tips — Matplotlib](https://medium.com/@zzznavarrete/5-tiny-tips-matplotlib-c46418bd4573)
 - [Compiled and interpreted: 2 fundamental concepts behind programming languages](https://medium.com/@zzznavarrete/interpreted-and-dynamic-2-fundamental-concepts-behind-programming-languages-8d73490448b7)
-- [The reason why writing your political opinion on Instagram is pointless](https://medium.com/@zzznavarrete/the-reason-why-writing-your-political-opinion-on-instagram-is-pointless-cf81c5874f1a)
 - [Next step in human evolution](https://nicolasnn.vivaldi.net/2020/07/19/next-step-in-human-evolution/)
 
 <!-- BLOG-POST-LIST:END -->
